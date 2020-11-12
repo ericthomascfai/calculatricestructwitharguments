@@ -45,7 +45,7 @@ double choixoperateur(double nombre2, double nombre1) {
 }
 
 void affichageres(double resulat) {
-printf("Le resulat du calcul est %lf",resulat);
+printf("Le resulat du calcul est %lf\n",resulat);
 }
 
 double saisienombre2();
